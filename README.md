@@ -4,12 +4,12 @@ This is the official repository for our paper:
 **[CAT-3DGS Pro: A New Benchmark for Efficient 3DGS Compression](https://arxiv.org/abs/2503.12862)**  
 by *Yu-Ting Zhan, He-bi Yang, Cheng-Yuan Ho, Jui-Chiu Chiang, Wen-Hsiao Peng*.
 
----
+
 
 ## 📄 Paper
 - arXiv: [https://arxiv.org/abs/2503.12862](https://arxiv.org/abs/2503.12862)
 
----
+
 
 ## 🚀 Highlights
 
@@ -19,15 +19,27 @@ CAT-3DGS Pro sets a new benchmark for 3DGS compression.
 -	Alternate rate-distortion optimization (A-RDO): Improves training speed and RD.
 - Uniform sampling rate optimization (USRO): Further boosts RD.
 
----
+
 
 ## 🔧 Code Availability
 We are currently preparing and cleaning up the implementation.  
 The code and instructions will be released here soon. Please stay tuned! ⭐
 
 
----
+
 
 ## 📢 Citation
-If you find our work useful, please cite:
+If you find our work helpful, please cite:
+
+```bibtex
+@misc{zhan2025cat3dgspronewbenchmark,
+      title={CAT-3DGS Pro: A New Benchmark for Efficient 3DGS Compression}, 
+      author={Yu-Ting Zhan and He-bi Yang and Cheng-Yuan Ho and Jui-Chiu Chiang and Wen-Hsiao Peng},
+      year={2025},
+      eprint={2503.12862},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2503.12862}, 
+}
+```
 
