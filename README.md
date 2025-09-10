@@ -1,4 +1,6 @@
-# [Eusipco 2025] CAT-3DGS Pro: A New Benchmark for Efficient 3DGS Compression
+# CAT-3DGS Pro: A New Benchmark for Efficient 3DGS Compression
+
+Accpeted to Eusipco 2025
 
 This is the official repository for our paper:  
 **[CAT-3DGS Pro: A New Benchmark for Efficient 3DGS Compression](https://arxiv.org/abs/2503.12862)**  
