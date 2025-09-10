@@ -18,8 +18,8 @@ by *Yu-Ting Zhan, He-bi Yang, Cheng-Yuan Ho, Jui-Chiu Chiang, Wen-Hsiao Peng*.
 CAT-3DGS Pro sets a new benchmark for 3DGS compression.
 -	CAT-3DGS Pro improves CAT-3DGS in both complexity and rate-distortion (RD) performance.
 -	VM hyperprior: Enhances training and inference speed.
--	Alternate rate-distortion optimization (A-RDO): Improves training speed and RD.
-- Uniform sampling rate optimization (USRO): Further boosts RD.
+-	Alternate rate-distortion optimization (A-RDO): Improves training speed and rate-distortion (RD) performance.
+- Uniform sampling rate optimization (USRO): Further boosts rate-distortion (RD) performance.
 
 
 
